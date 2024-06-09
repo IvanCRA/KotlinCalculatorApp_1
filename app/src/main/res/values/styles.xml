@@ -21,7 +21,7 @@
         <item name="android:layout_weight">1</item>
         <item name="android:layout_width">5dp</item>
         <item name="android:layout_height">match_parent</item>
-        <item name="android:textColor">@color/orange</item>
+        <item name="android:textColor">@color/aquamarine</item>
         <item name="android:background">@null</item>
         <item name="android:textSize">25sp</item>
         <item name="android:onClick">operationAction</item>

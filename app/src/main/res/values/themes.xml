@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="Base.Theme.KotlinCalculatorApp_1" parent="Theme.AppCompat">
-        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimary">@color/aquamarine</item>
         <item name="colorPrimaryVariant">@color/almostBlack</item>
         <item name="colorOnPrimary">@color/white</item>
 
